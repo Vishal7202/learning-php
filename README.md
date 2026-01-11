@@ -15,3 +15,8 @@
 - Difference between themes and plugins
 - Basic idea of WordPress admin dashboard
 - Learning how PHP is used in WordPress
+## 🛠 Mini Projects
+- Student Result Checker System (PHP)
+- Mini Login System (PHP)
+- PHP Calculator
+- PHP Contact Form
